@@ -1,6 +1,4 @@
 node_modules
 dist
-public/data
-backup/
 .logs
 .DS_Store
